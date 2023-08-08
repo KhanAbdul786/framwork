@@ -1,0 +1,8 @@
+EmployeeCode,LeaverChancesUsed,IsFinalLeaver,ValidationStatus,LeaveMarkDateTime,RequiresRevalidation
+new02mon,0,0,1,NULL,0
+new01mon,0,0,1,NULL,0
+monorc1309,0,0,1,NULL,0
+new03mon,1,0,1,"2022-04-08 14:12:59.555161",1
+mono2rc309,1,0,1,"2022-04-08 14:12:59.555161",1
+mono2rc309,1,0,1,"2022-04-08 14:12:59.555161",1
+mono3rc309,1,0,1,"2022-04-08 14:12:59.555161",1
