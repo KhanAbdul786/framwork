@@ -1,0 +1,4 @@
+Id,EmployerId,ImportedByEmail,AppVersion,RowsInserted,RowsUpdated,NumberOfLeavers,NumberOfActive,Payrolls,ImportedDateTime,ImportProcessRetries,ImportProcessStatus,LastProcessedDateTime,RowsInHolding,ImportProcessCompleteDateTime,InProcessing,EmployerComparisonSummary,NoOnGoingValidationStatus
+08da1969-e2e9-5fcd-bf86-4fbba913370f,08da0cdd-cecb-c604-55c9-fb3b43ae02af,safariTest@test.com,6.0.3,0,3,3,3,"safari,Monthly","2022-04-08 14:12:59.555161",0,1,"2022-04-08 14:15:47.740035",0,"2022-04-08 14:15:47.971683",0,[],1
+08da195f-82a9-60c8-c8f6-ad0d3869c27f,08da0cdd-cecb-c604-55c9-fb3b43ae02af,safariTest@test.com,6.0.3,3,0,0,6,Monthly,"2022-04-08 12:58:43.107168",0,1,"2022-04-08 13:00:47.590797",3,"2022-04-08 13:00:47.716415",0,[],1
+08da195d-04d3-d134-92b7-1a9247e188e4,08da0cdd-cecb-c604-55c9-fb3b43ae02af,safariTest@test.com,6.0.3,3,0,0,3,Monthly,"2022-04-08 12:40:52.998922",0,1,"2022-04-08 12:45:47.618350",3,"2022-04-08 12:45:47.793150",0,[],1
